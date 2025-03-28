@@ -20,3 +20,14 @@ For example, in the bid() function:
         MpcCore.onBoard(highestBid)
     )
 
+3. Private Auctions Benefits
+
+Confidential Transactions: All bids remain private
+
+Fair Auction: Participants can't see others' bids to strategically outbid
+
+Price Discovery: The auction can find the true market value without revealing specific bid amounts
+
+Prevents Front-running: Other users can't see pending bids to front-run them
+
+Privacy for Bidders: Bidders' financial capacity and willingness to pay remain confidential
